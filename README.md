@@ -2,6 +2,11 @@
 
 Professional Role Management System using React + Vite, Node.js + Express, MongoDB + Mongoose, JWT and bcrypt.
 
+## Links
+
+- Local website (while the frontend dev server is running): http://localhost:5173
+- GitHub repository: https://github.com/raja711/DTG-group
+
 ## Structure
 
 - `backend` - Express REST API
